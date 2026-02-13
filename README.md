@@ -43,7 +43,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/771salameche/web3-smart-contract-workshops
-   cd axe1-smart-contracts
+   cd web3-smart-contract-workshops
    ```
 
 2. Installez les dépendances pour chaque atelier :
