@@ -1,0 +1,27 @@
+{
+  "name": "DARVEST Investment Share #[TOKEN_ID]",
+  "description": "This NFT represents an investment share in the DARVEST platform. It symbolizes ownership rights and participation in the ecosystem.",
+  "image": "ipfs://[IMAGE_CID]/[TOKEN_ID].png",
+  "attributes": [
+    {
+      "trait_type": "Investment Amount",
+      "value": "[AMOUNT]"
+    },
+    {
+      "trait_type": "Investment Date",
+      "value": "[TIMESTAMP]"
+    },
+    {
+      "trait_type": "Investor Address",
+      "value": "[ADDRESS]"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-721"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Polygon Amoy"
+    }
+  ]
+}

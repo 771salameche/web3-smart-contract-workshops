@@ -1,0 +1,12 @@
+{
+  "contractName": "InvestmentNFT",
+  "address": "0xc9FC208573Cd9e6f010129b779aaB4bcb3bC1C02",
+  "deployer": "0xC107d2bF475E81F425e946BCb8DF931AE03C798E",
+  "transactionHash": "0xb88b5d093556a296e19e044f5d9865b4435d4bdf9ccfb279dc9603d10d385c55",
+  "blockNumber": 33628049,
+  "gasUsed": "1190182",
+  "name": "DARVEST Investment Share",
+  "symbol": "DINV",
+  "network": "amoy",
+  "timestamp": "2026-02-12T10:18:22.217Z"
+}
